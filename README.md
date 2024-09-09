@@ -6,9 +6,9 @@ date: 8-Sep-2024
 
 These are my notes on what nodes/services I would want to setup for an EMCOMM situation.
 
-## Nodes
+## AREDN Nodes
 
-### node 1
+### AREDN node 1
 one main node attached to a smart switch this provides the 5ghz connection to the wireless clients.  
     
 this node will advertise the services behind it:
@@ -22,7 +22,7 @@ this node will advertise the services behind it:
     - mapping server
     - authentication provider?
 
-### node 2
+### AREDN node 2
 a P2P node attached to that switch on VLAN 2 for DtD and providing a connection to the rest of the mesh.
 
 ---
